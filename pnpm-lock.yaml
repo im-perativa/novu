@@ -1617,7 +1617,7 @@ importers:
       jest: ^27.0.6
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/shared': link:../../libs/shared
@@ -1628,7 +1628,7 @@ importers:
       jest: 27.5.1
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   packages/headless:
@@ -1644,7 +1644,7 @@ importers:
       jest-environment-jsdom: ^29.3.1
       socket.io-client: 4.6.1
       ts-jest: ^29.0.3
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/client': link:../client
@@ -1659,7 +1659,7 @@ importers:
       jest: 29.5.0_@types+node@14.18.42
       jest-environment-jsdom: 29.5.0
       ts-jest: 29.1.0_rgossuqlslmrpogqankdav3e2e
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   packages/nest:
@@ -1680,7 +1680,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@nestjs/common': 8.4.7_mnr6j2del53muneqly5h4y27ai
@@ -1700,7 +1700,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   packages/node:
@@ -1723,7 +1723,7 @@ importers:
       rimraf: ^3.0.2
       run-p: 0.0.0
       ts-jest: ^27.0.5
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/shared': link:../../libs/shared
@@ -1745,7 +1745,7 @@ importers:
       rimraf: 3.0.2
       run-p: 0.0.0
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   packages/notification-center:
@@ -1975,7 +1975,7 @@ importers:
       rimraf: ^3.0.2
       run-p: 0.0.0
       ts-jest: ^27.0.5
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       handlebars: 4.7.7
@@ -1995,7 +1995,7 @@ importers:
       rimraf: 3.0.2
       run-p: 0.0.0
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/apns:
@@ -2015,7 +2015,7 @@ importers:
       prettier: ~2.8.0
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2034,7 +2034,7 @@ importers:
       prettier: 2.8.7
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/burst-sms:
@@ -2056,7 +2056,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
       uuid: ^9.0.0
     dependencies:
@@ -2078,7 +2078,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
       uuid: 9.0.0
 
@@ -2099,7 +2099,7 @@ importers:
       prettier: ~2.8.0
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2118,7 +2118,7 @@ importers:
       prettier: 2.8.7
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/discord:
@@ -2139,7 +2139,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2159,7 +2159,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/emailjs:
@@ -2180,7 +2180,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2200,7 +2200,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/expo:
@@ -2221,7 +2221,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2241,7 +2241,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/fcm:
@@ -2265,7 +2265,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2288,7 +2288,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/firetext:
@@ -2312,7 +2312,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2335,7 +2335,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/forty-six-elks:
@@ -2390,7 +2390,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2411,7 +2411,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/infobip:
@@ -2432,7 +2432,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@infobip-api/sdk': 0.2.0
@@ -2452,7 +2452,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/kannel:
@@ -2473,7 +2473,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.19.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2493,7 +2493,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.19.2_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/mailersend:
@@ -2514,7 +2514,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2534,7 +2534,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/mailgun:
@@ -2557,7 +2557,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2579,7 +2579,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/mailjet:
@@ -2601,7 +2601,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2622,7 +2622,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/mandrill:
@@ -2645,7 +2645,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@mailchimp/mailchimp_transactional': 1.0.50
@@ -2667,7 +2667,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/maqsam:
@@ -2758,7 +2758,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
       uuid: ^9.0.0
     dependencies:
@@ -2779,7 +2779,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
       uuid: 9.0.0
 
@@ -2801,7 +2801,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.7
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2821,7 +2821,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/nexmo:
@@ -2842,7 +2842,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2862,7 +2862,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/nodemailer:
@@ -2884,7 +2884,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.7
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2905,7 +2905,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/outlook365:
@@ -2926,7 +2926,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2946,7 +2946,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/plivo:
@@ -2967,7 +2967,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -2987,7 +2987,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/postmark:
@@ -3008,7 +3008,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3028,7 +3028,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/resend:
@@ -3049,7 +3049,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.19.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3069,7 +3069,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.19.2_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/sendgrid:
@@ -3090,7 +3090,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3110,7 +3110,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/sendinblue:
@@ -3132,7 +3132,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3153,7 +3153,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/ses:
@@ -3175,7 +3175,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: ^4.9.5
     dependencies:
       '@aws-sdk/client-ses': 3.282.0
@@ -3196,7 +3196,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/slack:
@@ -3218,7 +3218,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/node': link:../../packages/node
@@ -3239,7 +3239,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/sms-central:
@@ -3295,7 +3295,7 @@ importers:
       sms77-client: ^2.14.0
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3317,7 +3317,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/sns:
@@ -3338,7 +3338,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@aws-sdk/client-sns': 3.310.0
@@ -3358,7 +3358,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/sparkpost:
@@ -3380,7 +3380,7 @@ importers:
       sparkpost: ^2.1.4
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3401,7 +3401,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/telnyx:
@@ -3422,7 +3422,7 @@ importers:
       telnyx: ^1.23.0
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3442,7 +3442,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/termii:
@@ -3464,7 +3464,7 @@ importers:
       rimraf: ^3.0.2
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3485,7 +3485,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
   providers/twilio:
@@ -3506,7 +3506,7 @@ importers:
       ts-jest: ^27.0.5
       ts-node: ~10.9.1
       twilio: ^3.67.2
-      typedoc: ^0.23.0
+      typedoc: ^0.24.0
       typescript: 4.9.5
     dependencies:
       '@novu/stateless': link:../../packages/stateless
@@ -3526,7 +3526,7 @@ importers:
       rimraf: 3.0.2
       ts-jest: 27.1.5_d5we6thvweerisoz5puaw7xkku
       ts-node: 10.9.1_wh2cnrlliuuxb2etxm2m3ttgna
-      typedoc: 0.23.28_typescript@4.9.5
+      typedoc: 0.24.4_typescript@4.9.5
       typescript: 4.9.5
 
 packages:
@@ -31727,6 +31727,7 @@ packages:
 
   /highlight.js/10.7.3:
     resolution: {integrity: sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==}
+    dev: false
 
   /history/4.10.1:
     resolution: {integrity: sha512-36nwAD620w12kuzPAsyINPWJqlNbij+hpK1k9XRloDtym8mxzGYl2c17LnV6IAGB2Dmg4tEa7G7DlawS0+qjew==}
@@ -36391,12 +36392,6 @@ packages:
       supports-hyperlinks: 2.3.0
     dev: true
 
-  /marked/1.2.9:
-    resolution: {integrity: sha512-H8lIX2SvyitGX+TRdtS06m1jHMijKN/XjfH6Ooii9fvxMlh8QdqBfBDkGUpMWH2kQNrtixjzYUa3SH8ROTgRRw==}
-    engines: {node: '>= 8.16.2'}
-    hasBin: true
-    dev: true
-
   /marked/4.3.0:
     resolution: {integrity: sha512-PRsaiG84bK+AMvxziE/lCFss8juXjNaWzVbN5tXAm4XjeaS9NAHhop+PjQxz2A9h8Q4M/xGmzP8vqNwy6JeK0A==}
     engines: {node: '>= 12'}
@@ -36883,6 +36878,13 @@ packages:
 
   /minimatch/8.0.4:
     resolution: {integrity: sha512-W0Wvr9HyFXZRGIDgCicunpQ299OKXs9RgZfaukz4qAW/pJhcpUfupc9c+OObPOFueNy8VSrZgEmDtk6Kh4WzDA==}
+    engines: {node: '>=16 || 14 >=14.17'}
+    dependencies:
+      brace-expansion: 2.0.1
+    dev: true
+
+  /minimatch/9.0.0:
+    resolution: {integrity: sha512-0jJj8AvgKqWN05mrwuqi8QYKx1WmYSUoKSxu5Qhs9prezTz10sxAHGNZe9J9cqIJzta8DWsleh2KaVaLl6Ru2w==}
     engines: {node: '>=16 || 14 >=14.17'}
     dependencies:
       brace-expansion: 2.0.1
@@ -46899,34 +46901,8 @@ packages:
   /typedarray/0.0.6:
     resolution: {integrity: sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==}
 
-  /typedoc-default-themes/0.11.4:
-    resolution: {integrity: sha512-Y4Lf+qIb9NTydrexlazAM46SSLrmrQRqWiD52593g53SsmUFioAsMWt8m834J6qsp+7wHRjxCXSZeiiW5cMUdw==}
-    engines: {node: '>= 8'}
-    dev: true
-
-  /typedoc/0.19.2_typescript@4.9.5:
-    resolution: {integrity: sha512-oDEg1BLEzi1qvgdQXc658EYgJ5qJLVSeZ0hQ57Eq4JXy6Vj2VX4RVo18qYxRWz75ifAaYuYNBUCnbhjd37TfOg==}
-    engines: {node: '>= 10.0.0'}
-    hasBin: true
-    peerDependencies:
-      typescript: 3.9.x || 4.0.x
-    dependencies:
-      fs-extra: 9.1.0
-      handlebars: 4.7.7
-      highlight.js: 10.7.3
-      lodash: 4.17.21
-      lunr: 2.3.9
-      marked: 1.2.9
-      minimatch: 3.1.2
-      progress: 2.0.3
-      semver: 7.4.0
-      shelljs: 0.8.5
-      typedoc-default-themes: 0.11.4
-      typescript: 4.9.5
-    dev: true
-
-  /typedoc/0.23.28_typescript@4.9.5:
-    resolution: {integrity: sha512-9x1+hZWTHEQcGoP7qFmlo4unUoVJLB0H/8vfO/7wqTnZxg4kPuji9y3uRzEu0ZKez63OJAUmiGhUrtukC6Uj3w==}
+  /typedoc/0.24.4_typescript@4.9.5:
+    resolution: {integrity: sha512-vQuliyGhJEGeKzzCFHbkS3m0gHoIL6cfr0fHf6eX658iGELtq2J9mWe0b+X5McEYgFoMuHFt5Py3Zug6Sxjn/Q==}
     engines: {node: '>= 14.14'}
     hasBin: true
     peerDependencies:
@@ -46934,7 +46910,7 @@ packages:
     dependencies:
       lunr: 2.3.9
       marked: 4.3.0
-      minimatch: 7.4.6
+      minimatch: 9.0.0
       shiki: 0.14.1
       typescript: 4.9.5
     dev: true

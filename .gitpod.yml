@@ -20,6 +20,9 @@ tasks:
   - name: WS
     init: gp sync-await setup
     command: cd apps/ws && pnpm start
+  - name: WORKER
+    init: gp sync-await setup
+    command: cd apps/worker && pnpm start
   - name: WEB
     init: gp sync-await setup
     command: |
